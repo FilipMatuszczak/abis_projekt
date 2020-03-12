@@ -1,0 +1,11 @@
+!BAProfile.vpp
+!projekt.vpp
+
+BAProfile.vpp.*
+.BAProfile*
+projekt.vpp.*
+projekt.vux
+.projekt*
+*.vux
+*.bak*
+*.lck
